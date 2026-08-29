@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/4nmol0824/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/4nmol0824/Leetcode/tree/master/0013-roman-to-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/4nmol0824/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/4nmol0824/Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/4nmol0824/Leetcode/tree/master/0075-sort-colors) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/4nmol0824/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
