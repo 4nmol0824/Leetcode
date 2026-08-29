@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/4nmol0824/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/4nmol0824/Leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/4nmol0824/Leetcode/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/4nmol0824/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/4nmol0824/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/4nmol0824/Leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
