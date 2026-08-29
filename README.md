@@ -17,6 +17,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/4nmol0824/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/4nmol0824/Leetcode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -25,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/4nmol0824/Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/4nmol0824/Leetcode/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
