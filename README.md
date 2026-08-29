@@ -34,6 +34,7 @@
 | [0075-sort-colors](https://github.com/4nmol0824/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/4nmol0824/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/4nmol0824/Leetcode/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/4nmol0824/Leetcode/tree/master/0704-binary-search) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/4nmol0824/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/4nmol0824/Leetcode/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/4nmol0824/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
