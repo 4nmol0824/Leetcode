@@ -29,6 +29,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/4nmol0824/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/4nmol0824/Leetcode/tree/master/0013-roman-to-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/4nmol0824/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/4nmol0824/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/4nmol0824/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
