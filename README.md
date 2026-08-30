@@ -22,6 +22,7 @@
 | [0001-two-sum](https://github.com/4nmol0824/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/4nmol0824/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/4nmol0824/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/4nmol0824/Leetcode/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/4nmol0824/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/4nmol0824/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -29,6 +30,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/4nmol0824/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/4nmol0824/Leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/4nmol0824/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/4nmol0824/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
@@ -36,6 +38,7 @@
 | [0001-two-sum](https://github.com/4nmol0824/Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/4nmol0824/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/4nmol0824/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/4nmol0824/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/4nmol0824/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/4nmol0824/Leetcode/tree/master/0704-binary-search) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/4nmol0824/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -50,6 +53,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/4nmol0824/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/4nmol0824/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/4nmol0824/Leetcode/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -61,6 +65,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/4nmol0824/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/4nmol0824/Leetcode/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -73,6 +78,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/4nmol0824/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/4nmol0824/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/4nmol0824/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
