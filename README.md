@@ -7,6 +7,7 @@
 | [0013-roman-to-integer](https://github.com/4nmol0824/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/4nmol0824/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/4nmol0824/Leetcode/tree/master/0125-valid-palindrome) |
+| [2351-first-letter-to-appear-twice](https://github.com/4nmol0824/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0001-two-sum](https://github.com/4nmol0824/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/4nmol0824/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/4nmol0824/Leetcode/tree/master/0217-contains-duplicate) |
+| [2351-first-letter-to-appear-twice](https://github.com/4nmol0824/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/4nmol0824/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -67,4 +69,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/4nmol0824/Leetcode/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/4nmol0824/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/4nmol0824/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
